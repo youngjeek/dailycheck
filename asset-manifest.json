@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/dailycheck/static/js/main.712477b4.js",
+    "main.js": "/dailycheck/static/js/main.267ee8a9.js",
     "index.html": "/dailycheck/index.html",
-    "main.712477b4.js.map": "/dailycheck/static/js/main.712477b4.js.map"
+    "main.267ee8a9.js.map": "/dailycheck/static/js/main.267ee8a9.js.map"
   },
   "entrypoints": [
-    "static/js/main.712477b4.js"
+    "static/js/main.267ee8a9.js"
   ]
 }
